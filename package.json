@@ -1,0 +1,19 @@
+{
+  "name": "s81_neo_foodie",
+  "version": "1.0.0",
+  "description": "Neo Foodie is a place-based food discovery web or mobile application platform designed to make it easier to find the perfect restaurants in their vicinity. In addition to well-crafted detailed reviews on food, interaction with maps and community, the application offers users an immersive experience based on real opinions from local foodies looking to discover new food spots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.0",
+    "nodemon": "^3.1.9"
+  }
+}
