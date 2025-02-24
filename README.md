@@ -19,4 +19,4 @@ Neo Foodie is a place-based food discovery web or mobile application platform de
 Neo Foodie combines two things I am passionate about: food and technology. I want to create a platform that connects local communities and enhances the dining experience through crowdsourced recommendations. This project offers a chance to deepen my skills in full-stack development, particularly with geolocation features, social engagement functionalities, and user-generated content. It will also be insightful in developing scalable platforms to handle large user data and real-time interaction, which could come in handy when developing larger applications.
 
 
-Added bruno to S81_Neo_Foodie
+Added bruno to S81_Neo_Foodie and tested with

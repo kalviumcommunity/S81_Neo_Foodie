@@ -1,6 +1,10 @@
 const express=require("express")
 const app=express()
 const connect=require('./connection')
+const {userRoutes}=require("./controllers/userRoutes")
+
+app.use(express.json())
+app.use("/user",userRoutes)
 
 
 
