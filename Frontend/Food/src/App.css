@@ -1,0 +1,34 @@
+.Navbar {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: orange; /* Orange background */
+  color: white; /* White text */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.nav-links {
+  display: flex;
+  gap: 20px;
+}
+
+.nav-links h1 {
+  font-size: 18px;
+  cursor: pointer;
+  transition: color 0.3s ease-in-out;
+}
+
+.nav-links h1:hover {
+  color: #D32F2F; /* Light gray on hover */
+}
+
+.login {
+  font-size: 20px;
+  font-weight: bold;
+}
